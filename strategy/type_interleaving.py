@@ -1,5 +1,5 @@
-from enum import Enum
+from pydantic import BaseModel
+from typing import Literal
 
-class TypeInterleaving(Enum):
-    PROCEDURAL = "Procedural"
-    DECLARATIVE = "Declarative"
+class TypeInterleaving(BaseModel):
+  type: Literal["Procedural", "Declarative"]
