@@ -1,0 +1,532 @@
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 1/16
+Table of Contents
+1.General interleaving rules
+2.Interleaving techniques table
+3.Technique explanations
+4.Understanding mastery levels
+5.Understanding knowledge types
+General interleaving rules
+Interleaving your retrieval is one of the most important parts of performing retrieval. Retrieval without
+appropriate interleaving can in some cases void the effectiveness of the retrieval session. What that
+means is that non-interleaved retrieval that does not produce sufficient cognitive load can be
+practically useless. When doing your interleaved retrieval:
+M inimise the usage of techniques aimed at low levels of mastery. You will be able to fulfil these
+lower levels when doing higher levels anyway, whereas low levels do not take you to higher
+levels.
+Apply general rules for appropriate spacing. Good quality interleaving is more important than
+accurate spacing. Your schedule can be off by days or even weeks, as long as the quality of each
+session is good.
+Better retrieval techniques generally involve higher cognitive load and test on multiple
+relationships with a focus on big picture integration, justification and prioritisation of ideas, and
+back-and-forth thinking between multiple concepts. Any technique that ticks these boxes (even
+if not listed here) is likely to be appropriate.
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 2/16
+Use your learning objectives from your curriculum (if you have one) to gauge how “out of scope”
+to do your retrieval. Aim to go slightly out of scope for optimal results as staying too rigidly in
+the scope of your curriculum can make it harder to re-encode complex concepts.
+Interleaving techniques table
+Search or sort the table based on your desired subject type or knowledge mastery level to see the
+appropriate techniques. Use the contents menu above or scroll down to read about each technique,
+the different levels of mastery, or different knowledge types.
+Search
+Declarative 0. Waste of time Passive re-reading and re-writing, passive re-listening,
+practice questions (passive method), peer/group
+discussion (undirected)
+Declarative 1. Low levels 3C's, flashcards (simple), brain dump (linear), generated
+questions (isolated), teaching (isolated), Feynman
+technique, M oL or mM oL, story/link method, Ben system
+Declarative 2. M id levels Flashcards (simple relational), brain dump (mindmap),
+generated questions (simple relational or multi-relational),
+teaching (simple relational), practice questions (direct
+method)
+Declarative 3. High levels Chunkmaps, generated questions (evaluative), modified
+WPW, peer/group discussion (evaluative), practice
+questions (extended method)
+Procedural 0. Waste of time Re-reading and re-writing notes, REBIM
+Knowledge type Level of mastery Example techniques
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 3/16
+Procedural 1. Low levels Retrieved execution (simple), simple flashcards, Ben
+system, challenges (simple)
+Procedural 2. M id levels Retrieved execution (integrative), challenges (integrative),
+variable modification
+Procedural 3. High levels Retrieved execution (applied), challenges (edge-case),
+modified WPW, variable addition
+Knowledge type Level of mastery Example techniques
+Technique explanations
+Search
+REBIM  (Repetitive
+Execution Beyond
+Initial M astery)
+A technique coined by Dr Justin Sung, REBIM  refers to the repetitive completion of tasks or
+activities for skills and processes that can already be done to a high level of proficiency. For
+example, coding the same simple scripts repeatedly or solving the same difficulty of maths
+question, or engaging in the same kind of dialogue or conversation for languages. The
+benefit of the technique is negligible considering the alternative techniques that could be
+used instead.
+Passive re-reading
+and re-writing or
+passive listening
+Simply reading and re-writing notes without any particular cognitive focus. Usually boring,
+monotonous, disengaged, and repetitive. The focus may be on trying to just memorise what
+is being written, repeatedly saying the sentences mentally, or just "trying to understand".
+This does not activate most effective learning pathways and is highly time-consuming and
+demotivating.
+Practice questions
+(passive method)
+Solving problems and answering questions and immediately checking the answer. Often
+paired with answering the question mentally only, or just concluding "I could solve that"
+without going through all of the steps, then checking the answers to see if it makes sense.
+The illusion of learning is that because the question seems familiar and the answer makes
+Technique Description
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 4/16
+sense, that you are able to solve it in a realistic retrieval setting, however this is not true due
+to the gap between retrieval competency and perception of competency (the illusion of
+explanatory depth). A common way of using practice questions, but limited effectiveness
+compared to alternatives.
+Practice questions
+(direct method)
+Solving problems and answering questions and checking the answers immediately after the
+attempts. If incorrect, content material may be focally reviewed, but more often if it "makes
+sense" then it is concluded that it was just a silly mistake. The actual attempt at answering
+activates generation cognitive effects, however when the true cause for mistakes is not
+properly addressed, we can run into "silly mistake syndrome" whereby we continue to
+make mistakes that cost valuable marks, because the reason for the mistakes remains
+unaddressed. Students can feel frustrated at these silly errors that occur regularly.
+Practice questions
+(extended
+method)
+After answering practice questions to your best attempt, an answer sheet is created by
+reviewing any answers you feel unsure about and re-studying the relevant content. Your
+answer sheet is then checked against the official answer sheet. This creates generative
+effects at two levels, while also creating targeted revision points on weaker topics. This can
+easily be done as a group activity as well when practice questions are not available, with
+each member creating a set of practice questions and answer sheets for other members.
+This is one of the best ways to use practice questions with incomparably higher levels of
+learning compared to passive and direct methods.
+3C's (Cover, copy,
+check)
+A low-level "fill-in-the-blanks" style retrieval technique whereby you cover part of your
+notes, then attempt to rewrite or redraw the covered part from memory. You then uncover
+the notes and check. This has been shown to be effective at improving short-term retention
+on basic information, especially among younger children. There is insufficient theoretical or
+empirical data to suggest this is an effective or time-efficient technique at higher levels.
+Flashcards
+(simple)
+Flashcards, either physical or through a digital medium such as Anki (preferred). The
+characteristic feature of simple flashcards is that each card tests on isolated facts, concepts
+or processes. Concepts do not relate to each other. Often useful for specific definitions,
+constants or other highly specific pieces of information that do not fit into relational notes.
+When other aspects of the learning system are inadequate, there is often an overload of
+simple flashcards causing enormous time-waste through repetition and steep forgetting
+curves.
+Technique Description
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 5/16
+Flashcards (simple
+relational)
+Flashcards, preferably digital through a medium such as Anki, whereby each card tests on
+the relationship or dynamic or influence that two or three concepts have with each other.
+Useful for key relationships that are highly specific and difficult to remember. These are
+often processes that are conceptually separate from the rest of the topic and are therefore
+hard to represent through relational note-taking as they can not fit into clean chunks.
+Relatively rare use-cases. This is also the highest level of flashcards usage we recommend
+as more complex forms of knowledge mastery are best retrieved through other techniques.
+Brain dump
+(linear)
+Type out everything you know about a certain topic. It's recommended that you follow
+learning objectives as a guide on what to brain dump on. Brain dumps can be on individual
+concepts or entire topics, depending on available time. Typing is recommended for speed
+with this technique. An easy but surprisingly useful technique for testing on mass retrieval
+at low to low-mid levels of knowledge mastery. It is limited in being able to accurately
+describe multiple relationships due to the inherent limitation of linear notes. It is also
+inherently time-consuming as gap identification relies on "dumping" until we stumble upon
+an area we have difficulties retrieving. Recommended as an end-stage retrieval form as
+alternatives can provide faster gap identification.
+Brain dump
+(mindmap)
+The same as a linear brain dump, but in a mindmap form. This is not as good at covering
+the smaller details, but much better at covering relationships and chunks. As more difficult
+assessment and retrieval standards force you to think in relationships and chunks, this
+form of brain dumping is better to identify high-yield gaps to fill before moving into more
+detailed forms of retrieval. M indmap brain dumps are a good early to mid-stage retrieval
+technique.
+Generated
+questions
+(isolated)
+Creating your own practice questions. Isolated questions are those that focus on retrieving
+single facts, concepts and explanations of isolated processes. M any "what" based questions
+tend to be isolated. These questions are not very worthwhile as alternatives produce the
+same level of detailed learning and more.
+Generated
+questions (simple
+relational or multi-
+relational)
+Creating your own practice questions. Simple relational questions challenge you to explain
+or discuss the relationship between two related ideas, whereas multi-relational questions
+challenge you to retrieve the relationships between more than two related ideas.
+Technique Description
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 6/16
+Generated
+questions
+(evaluative)
+Creating your own practice questions. Evaluative questions challenge you to not only
+explain and discuss relationships between multiple related ideas, but also challenge you to
+compare and contrast the strength and importance of the relationships, making
+judgements and prioritising different concepts against each other. The key difference
+between evaluative and multi-relational is that the relationships in multi-relational are
+acknowledged and explained, but judgements on importance are not made. This is the
+highest form of questioning and there is significant cognitive load and generation effects in
+the act of both creating the question and answering the question. It is recommended to
+have this form of interleaved retrieval in early-stage revision schedules so that answering
+the questions can be included as a mid to late stage retrieval option. This creates time-
+efficiency and when answering the questions, it can be combined with the practice
+questions (extended method) technique.
+Teaching (isolated) Teaching the technique to a friend or imaginary student. Teaching to an imaginary student
+is preferred because when teaching to a friend, they may fill in gaps for you with their own
+knowledge, instead of forcing you to realise that you are unable to explain something in a
+full level of depth. In the isolated version of teaching, explanations are limited to isolated
+facts, concepts and processes.
+Teaching (simple
+relational)
+The same as the isolated version, however instead of explanations being limited to isolated
+facts, concepts and processes, we are now explaining and discussing how different
+concepts and processes relate to each other. This is the highest form of teaching retrieval
+that can normally be reached for learners that do not have a high-intermediate level of
+encoding, especially with regards to the layers of learning taught in the late Ascent stages.
+This is because the more advanced version (WPW reteaching) is extremely challenging to
+perform correctly and is nearly impossible without ultra-refined chunking ability. Simple
+relational teaching is a relatively effective form of retrieval and should be incorporated in
+the early to mid stages of revision scheduling as it can find gaps in knowledge faster than
+many other forms of retrieval.
+WPW reteaching Taught in late stages of the course. An advanced retrieval method that is essentially
+impossible for any students without near mastery beyond Ascent 3 level. It challenges on all
+levels of learning with rapid gap identification. This is ideally an early to mid stage retrieval
+form due to how efficiently it identifies gaps in knowledge. Warning: attempting this
+technique without mastering earlier stages will result in virtually guaranteed technique
+failure. It will certainly be more time-consuming and less efficient than simple relational
+Technique Description
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 7/16
+teaching, until your skill level increases naturally to the appropriate stage. WPW reteaching
+is one of the most challenging techniques taught in the course, with considerable difficulty
+even for those who have mastered all earlier stage techniques. Those who have the
+prerequisites to perform WPW reteaching correctly are likely already in or near the top 1%
+of academic achievement region or nationwide. In short, do NOT rush the course just to
+learn this technique.
+Feynman
+technique,
+method of loci
+(M oL) or modified
+method of loci
+(mM oL), link or
+story method and
+Ben system
+All different memorisation techniques. Some of these are taught in the course, however
+many are not. The ones that are taught in the course are taught in late stages. Although
+these memorisation techniques are powerful for rote learning of isolated information, the
+use-cases are very narrow and there is a tendency to over-rely on these methods instead of
+developing proper encoding techniques which are several-fold more efficient at achieving
+higher knowledge mastery levels. None of these techniques facilitates learning at mid or
+high levels of knowledge mastery. They are a great trick to use once in a while but are
+heavily over-rated and very limited in real-world practical usefulness.
+Chunkmaps
+(synonymous with
+GRINDEmaps)
+M indmaps created with correct chunking technique. These are normally a core part of the
+encoding process in our Bear Hunter System taught in the growth phase, however, if you
+have previously learned material before learning how to do correct encoding, it is
+worthwhile to re-encode all of your material into a chunkmap form to stimulate higher
+levels of mastery and improve retention. In this situation, this technique should be the very
+first step of the revision process and should be performed as early as possible, making time
+for other forms of interleaved retrieval. M ost people find that they struggle considerably at
+creating a chunkmap with previously poorly encoded information, largely because it was
+originally never processed at higher levels. This tends to be reflected in poor overall time
+efficiency and undesirable results.
+Peer/group
+discussion
+(undirected)
+M ost group study is a colossal waste of time compared to what could be achieved in the
+same time through alternative techniques. Although group study psychology does create
+some interesting cognitive benefits, we can achieve the same benefits and more with more
+directed methods.
+Peer/group
+discussion
+(evaluative)
+Group discussion whereby the goal is to critique, judge and argue the importance of
+different relationships and concepts, especially in view of the bigger picture. M ethods of
+facilitating group study to achieve this are taught in the course.
+Technique Description
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 8/16
+Retrieved
+execution (simple)
+Retrieved execution is practising a skill or process from memory without any cue or
+guidance. The simple version is limited to isolated applications of the process without
+variation. It is often the first way in which practice a new skill, however many people will
+continue with this simple version beyond it's beneficial time frame.
+Retrieved
+execution
+(integrative)
+Retrieved execution is practising a skill or process from memory without any cue or
+guidance. The integrative version involves taking multiple skills and processes and bringing
+them together to achieve a greater or more complex function. This may be easy coding or
+languages where more complex functions can be coded using simpler, component skills, or
+common phrases and dialogues can be chained together to form a simple, but varied
+conversation. Learners should aim to move to integrative retrieved execution at the
+soonest possible time, immediately after gaining basic competency with simple execution.
+This provides stronger generative effects, greater cognitive load and more interleaving.
+Retrieved
+execution
+(applied)
+The applied version of retrieved execution is fundamentally based around a bigger picture,
+more complex application of the simpler skills and processes. While integrative practice
+brings together individual components to form a more complex product, applied practice
+starts with a wider project that requires dozens or hundreds of integrated components to
+make it function. In coding, this could mean developing a web application to fulfil a real
+need, requiring you to not only design and strategise how the functionality can be
+developed and executing on it, but also bug-fixing and continually evaluating the quality
+and efficiency of your work. For languages, this could be thinking of a common scenario in
+which you will require your language and practising multiple variations of conversations
+that could arise in that setting. For example, a simple meeting with friends at a restaurant
+may involves hundreds of variations of phrases to navigate the entire evening smoothly in
+your new language. Applied retrieved execution is the most challenging but most effective
+form of practice. Learners should aim to move towards applied execution once some level
+of competency is achieved with integrative execution. This transition from integrative to
+applied does not need to be rushed, as deficiencies in integrative practice can potentially
+cause quite significant efficiency consequences when attempting under fully applied
+execution challenges.
+Challenges
+(simple)
+Challenges are similar to retrieved execution, however are different in that challenges
+involve a prompt or problem stem that must be solved using your skills. Challenges can be
+self-created or externally provided. Simple challenges help to build basic procedural
+competency with single, isolated pieces of information. For example, coding a certain
+Technique Description
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 9/16
+function, mastering a line of syntax and a few variations, or introducing yourself and
+ordering a glass of water in a new language.
+Challenges
+(integrative)
+Challenges are similar to retrieved execution, however are different in that challenges
+involve a prompt or problem stem that must be solved using your skills. Challenges can be
+self-created or externally provided. Integrative challenges, like integrative retrieved
+execution, involve bringing together multiple component pieces to solve a more complex
+problem. These challenges sometimes involve using two or more component processes or
+skills in ways that were previously not directly taught. A common example is in solving
+physics or maths problems where different formulas and concepts come together to
+calculate a multi-step problem.
+Challenges (edge-
+case)
+Challenges are similar to retrieved execution, however are different in that challenges
+involve a prompt or problem stem that must be solved using your skills. Challenges can be
+self-created or externally provided. In edge-case challenges, the problems are centered
+around atypical examples of how the skills and processes can be used. They are almost
+always different from how the skills were originally taught and the learner needs to think
+about how certain processes and skills apply in this situation. Strong declarative knowledge
+on the principles is often needed to navigate this. The ability to logically reason that a
+certain approach is viable and makes sense is necessary to even make a start. For maths or
+physics, these may be challenge questions that involve multiple concepts being applied in
+non-textbook ways. For coding, this could be in creating advanced functionality by using a
+series of simple functions, rather than resorting to more powerful functions (that you may
+not know yet). For languages, this may be conversations or reading/writing in contexts that
+are unfamiliar or more advanced, such as business news, political debates, controversial
+opinions, or atypical responses to common questions. Edge-case practice is primarily useful
+for the most challenging kinds of retrieval. This may be unnecessary for your learning
+needs.
+Variable
+modification
+Variable modification simply means changing the variables in a given problem, challenge or
+question so that you can solve the same problem again, with different figures. The nature
+of the problem is the same and approach is the same. This is good for practising low-level
+procedural skills before moving into more integrative stages of retrieval.
+Variable addition Variable addition involves adding variables to an existing problem, challenge or question to
+increase it's difficulty. The variable added needs to make logical sense (a process which
+involves cognitive load and positive effects on learning), while also being potentially
+Technique Description
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 10/16
+solvable. Strong generation effects are activated at multiple points of this technique,
+including identifying which variable to add to make the problem more complicated,
+whether the variable makes sense, what value to give the variable in order for it to be
+reasonable, whether a solution actually exists when this variable is added, and evaluating
+how the variable interacts with other existing variables. M ore than one variable can be
+added if it is viable. This technique is most obvious for problems like in maths, physics,
+accounting, economics, finance, business, etc. but it is also applicable for coding and
+languages. For example, in coding, there may be a challenge to create a pop-up window
+when a query results in a positive value. A variable could be added so that if no query is
+delivered within a time-out period, a different message appears. This can be further
+complicated by adding an input variable where the query result changes depending on a
+user input. In languages, we can add variables such as number of speakers in a
+conversation, number of view points of an opinion, level of detail and conditions within
+statements or questions during conversation (e.g. "where do you want to eat" vs "if you're
+hungry, we can eat here, otherwise you can pick somewhere else" vs "I've already eaten
+here before, but I don't mind eating here again. If you're hungry, we can eat here, otherwise
+you can pick somewhere else, as long as it tastes good.")
+Technique Description
+Understanding m astery levels
+Overview
+Different levels of mastery correspond to different strengths of encoding, retention and ability to retrieve.
+Lower levels tend to perform more poorly overall while higher levels are deeper, retained longer and more
+nuanced in retrieval forms. Low levels of mastery are sometimes necessary when the type of knowledge
+demands it, but a common misconception is that low levels of mastery need to be focused on before moving
+to higher levels. This is not the case as our brain is able to automatically fulfil low levels of mastery on the
+way to high levels.
+For example, in attempting to solve a complex problem, our brain will automatically remember the
+equation we used, as well as the definition of a concept. This is usually faster than if we tried to focus
+on just low levels, to begin with, because of how human cognitive architecture functions. This is
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 11/16
+because retention of information depends on whether the information belongs in structure and has
+relevance (among other factors). Because techniques that exclusively work on low levels do not
+provide structure and relevance, it takes longer to remember information than if a higher-level
+technique were used to achieve the same effect.
+Critically, techniques that are suited for low levels are ineffective at helping learners reach higher
+levels. If you are assessed at higher levels, your retrieval should also be at equivalent levels. We don’t
+expect someone to do a million flashcards and suddenly write a PhD.
+Low levels of m astery
+These levels are characterised by isolated information without relationships (or very superficial
+relationships). M any curriculums for primary age students assess only low levels of knowledge mastery.
+During secondary and tertiary education, low levels of mastery become ineffective at gaining top marks and
+inefficient due to the disproportionate increase in total volume of facts to be learned, relative to working
+memory capacity. Higher order learning techniques can increase the efficiency of knowledge encoding,
+which solves this problem at the root.
+Examples of low levels of mastery:
+Simple recall of facts and figures
+Describing or listing things
+Explaining single concepts and processes
+M iddle levels of m astery
+In these levels, we are starting to relate ideas together and seeing how concepts influence each other.
+Concurrently, knowledge is now being applied to contexts outside of how it was immediately learned.
+Examples of middle levels of mastery:
+Basic problem solving
+Discussing and explaining the relationship concepts have on each other
+Explaining or demonstrating how different components influence each other
+High levels of m astery
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 12/16
+At high levels of mastery, we are not only relating ideas, but we are connecting the relationships with the big
+picture of the topic. We are evaluating ideas and making judgements about the relative importance of
+different relationships and concepts. We are not just aware that relationships exist, but we are able to
+prioritise these relationships, manipulate the information, group and chunk concepts together and make
+judgements about the underlying logic of the topic.
+Examples of high levels of mastery:
+Comparing and contrasting the relative advantages and disadvantages of one concept compared to
+the alternatives, and how this changes depending on the context
+Discussing the impact that changing one variable can have in the variables of other related concepts
+Discussing how one concept can influence the overall function of a larger mechanism, and how this
+differs to the influence that other concepts have
+Solving problems that involve utilising multiple concepts together in novel combinations
+Understanding knowledge types
+Declarative
+Declarative knowledge is information that is based on facts, concepts and logic. It is the type of knowledge
+that involves encoding content material. Declarative knowledge is sometimes also called conceptual
+knowledge, or descriptive. One of the characteristics of declarative knowledge is that the information itself
+remains static. For example, if you learn about how a kidney functions, the nature of this information does
+not change, since the facts are already set. Your understanding and nuanced appreciation of the information
+may change, the facts remain static. This is unlike procedural knowledge whereby the knowledge on how to
+execute on certain processes innately changes as mastery grows.
+Examples of predominantly declarative knowledge:
+Science subjects
+History
+Politics
+Law
+Economics theory
+Accounting theory
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 13/16
+M athematics theory
+Business and finance theory
+Coding logic
+Language vocabulary, syntax, grammar and structure
+P rocedural
+Procedural knowledge is stored in different parts of the brain than declarative knowledge and involves some
+related processes, as well as some different cognitive processes. Procedural knowledge is based on actions,
+behaviours and processes, rather than facts or concepts. It is the knowledge on how to perform skills or
+procedures. In most settings, both declarative and procedural knowledge are required, but different subjects
+and settings require different levels of each.
+Examples of predominantly procedural knowledge:
+Conducting a lab experiment with technical precision (the theoretical knowledge on how the
+experiment should be conducted is declarative, while the skill of conducting it accurately and precisely
+may be procedural)
+Driving or riding a bike
+Cooking or baking (the theoretical knowledge of how to cook or bake a meal is declarative, while the
+skill of executing on the theory is procedural)
+Study skills (the theoretical knowledge of learning principles and how techniques should be
+performed is declarative, while the skill of actually performing them in practice is procedural)
+Solving mathematics or physics problems (the theoretical understanding of how to approach a
+problem and how different concepts can be brought together to create a solution is declarative, while
+the ability to actually work out the answer through calculation is procedural)
+Speaking a language fluently or writing fluently (the vocabulary, grammar and syntax knowledge is
+declarative, while the skill of speaking or writing is procedural)
+Creating an accounting balance sheet accurately and efficiently
+Building an app or developing something with coding languages (the theoretical understanding of the
+language logic and syntax is declarative, while the skill in executing on it accurately and efficiently is
+procedural)
+As you can see, most applications of knowledge require both sound declarative and procedural knowledge. If
+someone has great procedural knowledge of mathematics, but poor declarative knowledge of the concepts,
+they may be able to solve problems easily when they are familiar, but they will struggle to approach new
+types of challenges or understand how different mathematics concepts can be utilised. Likewise, someone
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 14/16
+with great declarative knowledge without procedural knowledge may know how to approach a problem but
+may struggle to properly calculate an answer.
+In another example, someone with great procedural coding knowledge may be able to easily write lines of
+script for simple functions that they have practised many times, but they may struggle with coding
+challenges, technical interviews, and developing new projects outside of their familiar scope. On the other
+hand, if this person has high declarative knowledge and poor procedural knowledge, they may know how to
+build a new and innovative function or project correctly, but will struggle with invalid lines of code, bugs,
+inefficient coding practices and poor total coding productivity.
+Clearly, in both examples, a truly excellent learner demonstrates both.
+How was that?
+Subscribe To Our Mailing List
+We’ll send you occasional updates regarding enrolments, workshops or events we run that you might be interested in.
+First Name
+Last Name
+293 1.7K 110 30 47 204
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 15/16
+Email Address
+- Select -
+Send me an occasional email about upcoming events that I might be interested in. No spam guarantee.
+(201) 555-0123
+Country *
+Select Country
+Educational Level
+What topics are you interested in learning more?
+Subscribe to mailing list
+WELCOME TO THE ICANSTUDY PRO MEMBERSHIP
+Got Friends W ho Are Interested?
+Refer your friends and receive $30 off your membership fee for the next month.
+Learn More About Referrals
+---PAGE BREAK---
+5/29/23, 3:40 PM Interleaving Table - iCanStudy
+https://icanstudy.com/interleaving-table/ 16/16
+Evidence-based systems for studying, time management and productivity. Derived from
+research; designed by experience.
+  
+Get In Touch
+10D/40 Wallace Ave, Melbourne 3030, Victoria, Australia
+help@icanstudy.com
+Privacy policy
+Terms and conditions
+---PAGE BREAK---
